@@ -1,0 +1,15 @@
+{
+    "name": "tuan2/cse_485_btth03",
+    "autoload": {
+        "psr-4": {
+            "Tuan2\\Cse485Btth03\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tuan88TLU",
+            "email": "tuan2k2mt@gmail.com"
+        }
+    ],
+    "require": {}
+}
